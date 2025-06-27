@@ -1,1 +1,1 @@
-# movierecommend
+Due to large file size of pkl file I couldnt push it to git,even though I installed lfs.Therefore cannot generate public url.I asked for help but didnt recieve any.So kindly evaluate the video attached with shows UI in localhost url.Sincerely,Fidha Sainab S
